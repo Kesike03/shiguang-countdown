@@ -1,0 +1,20 @@
+# Build outputs
+dist/
+release/
+target/
+rust/target/
+
+# Local test and validation artifacts
+.qa/
+*.pending.json
+debug.log
+error.log
+
+# IDE and OS files
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
+.DS_Store
